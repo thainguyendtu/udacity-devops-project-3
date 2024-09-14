@@ -1,1 +1,1 @@
-# udacity-devops-project-3 Thai Nguyen
+Project 3 Udacity
